@@ -29,100 +29,132 @@ I specialize in **Kotlin, Java, Android SDK, Jetpack Compose, Coroutines, Flow, 
 
 I enjoy solving complex engineering problems, improving application performance, designing maintainable architectures, and building reliable mobile experiences.
 
-- 🔭 Currently working on **Android applications and mobile solutions**
-- 🌱 Currently exploring **Kotlin Multiplatform (KMP)**
-- 💬 Ask me about **Android, Kotlin, Jetpack Compose, Flutter & KMP**
-- 📫 Reach me at **agraharidaranagar@gmail.com**
-- 📄 [View my Resume](https://drive.google.com/file/d/1Tehecmtqh56P4gXDiswW2gk3iJvoX8xz/view?usp=sharing)
+* 🔭 Currently working on **Mitanin**, a digital healthcare Android application
+* 🌱 Currently exploring **Kotlin Multiplatform (KMP)**
+* 💬 Ask me about **Android, Kotlin, Jetpack Compose, Flutter & KMP**
+* 📫 Reach me at **[agraharidaranagar@gmail.com](mailto:agraharidaranagar@gmail.com)**
+* 📄 [View my Resume](https://drive.google.com/file/d/1Tehecmtqh56P4gXDiswW2gk3iJvoX8xz/view?usp=sharing)
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Android
-- Kotlin
-- Java
-- Android SDK
-- Jetpack Compose
-- Android Jetpack
-- MVVM
-- Clean Architecture
-- ViewModel
-- Navigation
-- Room
-- WorkManager
-- Paging
-- DataBinding
+
+* Kotlin
+* Java
+* Android SDK
+* Jetpack Compose
+* Android Jetpack
+* MVVM
+* Clean Architecture
+* ViewModel
+* Navigation
+* Room
+* WorkManager
+* Paging
+* DataBinding
 
 ### Architecture & Concurrency
-- Coroutines
-- Flow
-- LiveData
-- RxJava
-- SOLID Principles
-- Dependency Injection
-- Hilt / Dagger
+
+* Coroutines
+* Flow
+* LiveData
+* RxJava
+* SOLID Principles
+* Dependency Injection
+* Hilt / Dagger
 
 ### Networking & Backend Integration
-- Retrofit
-- OkHttp
-- REST APIs
-- Gson
-- Moshi
-- gRPC
-- Firebase
+
+* Retrofit
+* OkHttp
+* REST APIs
+* Gson
+* Moshi
+* gRPC
+* Firebase
 
 ### Native & Advanced Android
-- Android NDK
-- JNI
-- Performance Optimization
-- Background Processing
-- Media Playback
-- Push Notifications
-- Google Maps API
+
+* Android NDK
+* JNI
+* Performance Optimization
+* Background Processing
+* Media Playback
+* Push Notifications
+* Google Maps API
 
 ### Cross-Platform
-- Flutter
-- Dart
-- React Native
-- Kotlin Multiplatform
+
+* Flutter
+* Dart
+* React Native
+* Kotlin Multiplatform
 
 ### Tools
-- Android Studio
-- Git & GitHub
-- Postman
-- Firebase Console
-- Linux
+
+* Android Studio
+* Git & GitHub
+* Postman
+* Firebase Console
+* Linux
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏥 Mitanin
+
+**Currently working on this Android application.**
+
+Mitanin is a digital healthcare application designed to support **ASHA (Accredited Social Health Activist) workers** with digital tools for field-level healthcare activities and beneficiary management.
+
+**Key Features:**
+
+* Household Enumeration & Family Registration
+* RMNCH+A Healthcare Workflows
+* NCD Screening
+* TB Screening
+* ASHA Dashboard
+* Digital healthcare data collection
+* Multilingual support
+
+**Technologies:** Kotlin • Android SDK • Jetpack • MVVM • Coroutines • Flow • Room • Retrofit • Hilt
+
+🔗 [View Mitanin on Google Play](https://play.google.com/store/apps/details?id=org.piramalswasthya.sakhi.mitanin&hl=en_IN)
+
 ### 📱 Zamit
+
 Android application providing a curated educational content experience.
 
 **Highlights:**
-- Video lectures
-- Interactive quizzes
-- E-books
-- Scalable Android architecture
-- Modern Android development practices
+
+* Video lectures
+* Interactive quizzes
+* E-books
+* Scalable Android architecture
+* Modern Android development practices
 
 ### 💙 Hudu
+
 Dating application focused on providing a smooth and engaging user experience.
 
 **Achievement:**
-- Helped scale the user base from **25K → 50K users within 3 months**
+
+* Helped scale the user base from **25K → 50K users within 3 months**
 
 ### 📖 Shayari Hub
+
 Hindi Shayari Android application focused on content discovery and sharing.
 
 **Focus areas:**
-- Modern Android UI
-- Dark mode support
-- Android 12+ compatibility
-- Navigation
-- Play Store release process
+
+* Modern Android UI
+* Dark mode support
+* Android 12+ compatibility
+* Navigation
+* Play Store release process
 
 ---
 
