@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Zamit](https://play.google.com/store/apps/details?id=com.MashVirtual.ZamitOne&hl=en_IN)
+- 🔭 I’m currently working on [Mitanin](https://play.google.com/store/apps/details?id=org.piramalswasthya.sakhi.mitanin&hl=en_IN)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Android, Flutter, React Native, KMP**
 
 - 📫 How to reach me **agraharidaranagar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NYH--NQ1W93vwmv6ABnW69Q1ZVe46_Ns/view?usp=sharing](https://drive.google.com/file/d/1NYH--NQ1W93vwmv6ABnW69Q1ZVe46_Ns/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Tehecmtqh56P4gXDiswW2gk3iJvoX8xz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
